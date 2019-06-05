@@ -1,0 +1,15 @@
+current directory: /Users/aguru/Desktop/qiita_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/aguru/.rbenv/versions/2.6.3/bin/ruby -I /Users/aguru/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190605-12736-1q0ifjw.rb extconf.rb
+creating Makefile
+
+current directory: /Users/aguru/Desktop/qiita_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/aguru/Desktop/qiita_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/aguru/Desktop/qiita_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190605-12736-snep1r/skiptrace
